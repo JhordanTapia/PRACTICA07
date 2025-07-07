@@ -1,3 +1,4 @@
+USE jhordantapia;
 
 CREATE TABLE Personas_InfoAdicional (
   persona_id BIGINT NOT NULL PRIMARY KEY,
